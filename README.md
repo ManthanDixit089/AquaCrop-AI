@@ -14,6 +14,25 @@ The project helps reduce water wastage, improve irrigation planning, and promote
 
 ---
 
+## Dataset
+
+The project uses a crop water requirement dataset containing agricultural and environmental parameters used for irrigation prediction.
+
+Location:
+
+```text
+dataset/DATASET - Sheet1.csv
+```
+
+Features include:
+- Crop Type
+- Soil Type
+- Weather Condition
+- Water Requirement
+- Environmental Parameters
+
+
+
 ## 🎯 Objectives
 
 - Predict crop water requirements accurately.
