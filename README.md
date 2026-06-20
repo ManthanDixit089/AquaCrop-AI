@@ -5,6 +5,22 @@
 A machine learning-based smart agriculture solution that predicts crop water requirements using crop characteristics, soil conditions, and environmental parameters to support efficient irrigation management.
 
 ---
+## Dataset
+
+The project uses a crop water requirement dataset containing agricultural and environmental parameters used for irrigation prediction.
+
+Location:
+
+dataset/DATASET - Sheet1.csv
+
+Features include:
+- Crop Type
+- Soil Type
+- Weather Condition
+- Water Requirement
+- Environmental Parameters
+
+
 
 ## 📌 Overview
 
